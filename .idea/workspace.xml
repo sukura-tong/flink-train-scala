@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d131082-07e3-4822-a9d0-22d95188506b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="1601c6bd-4255-4971-8278-070ea7b066dc" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\Maven\setup\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1sIUvK7Cy0K0s8LdjU5DkIEovhX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2.jar" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.427256" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.DataaSetDataSourceApp">
+    <configuration name="BatchWordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.swust.flink.scala.wc.BatchWordCount" />
+      <module name="flink-train-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swust.flink.scala.batch.course01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatchWordCountByJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.swust.flink.batch.BatchWordCountByJava" />
+      <module name="flink-train-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swust.flink.batch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataaSetDataSourceApp" type="Application" factoryName="Application" temporary="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.swust.flink.scala.batch.course02.DataaSetDataSourceApp" />
+      <module name="flink-train-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swust.flink.scala.batch.course02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StramingWordCountByJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.swust.flink.streaming.StramingWordCountByJava" />
+      <module name="flink-train-scala" />
+      <option name="PROGRAM_PARAMETERS" value="--port 9999" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swust.flink.streaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BatchWordCount" />
+      <item itemvalue="Application.BatchWordCountByJava" />
+      <item itemvalue="Application.StramingWordCountByJava" />
+      <item itemvalue="Application.DataaSetDataSourceApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DataaSetDataSourceApp" />
+        <item itemvalue="Application.StramingWordCountByJava" />
+        <item itemvalue="Application.BatchWordCountByJava" />
+        <item itemvalue="Application.BatchWordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d131082-07e3-4822-a9d0-22d95188506b" name="Default Changelist" comment="" />
+      <created>1620559827861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620559827861</updated>
+      <workItem from="1620559828973" duration="763000" />
+      <workItem from="1620607792175" duration="2800000" />
+      <workItem from="1621477613603" duration="1798000" />
+      <workItem from="1621661331012" duration="650000" />
+      <workItem from="1621941960187" duration="725000" />
+      <workItem from="1621998465918" duration="595000" />
+      <workItem from="1622254516320" duration="5460000" />
+    </task>
+    <task id="LOCAL-00001" summary="2021-05-09:flink初始化">
+      <created>1620560392117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620560392117</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2021-05-20:两种处理方式">
+      <created>1621477672133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621477672133</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="2021-05-09:flink初始化" />
+    <MESSAGE value="2021-05-20:两种处理方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-05-20:两种处理方式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622284408403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622284408403" />
+    <state x="663" y="418" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1621661367606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="663" y="418" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621661367606" />
+    <state x="404" y="143" key="CommitChangelistDialog2" timestamp="1621477668243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="404" y="143" key="CommitChangelistDialog2/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621477668243" />
+    <state x="687" y="200" key="FileChooserDialogImpl" timestamp="1622284494423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="200" key="FileChooserDialogImpl/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622284494423" />
+    <state width="1867" height="332" key="GridCell.Tab.0.bottom" timestamp="1620610602905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620610602905" />
+    <state width="1867" height="332" key="GridCell.Tab.0.center" timestamp="1620610602905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620610602905" />
+    <state width="1867" height="332" key="GridCell.Tab.0.left" timestamp="1620610602905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620610602905" />
+    <state width="1867" height="332" key="GridCell.Tab.0.right" timestamp="1620610602905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620610602905" />
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1620610602905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620610602905" />
+    <state width="1867" height="332" key="GridCell.Tab.1.center" timestamp="1620610602905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620610602905" />
+    <state width="1867" height="332" key="GridCell.Tab.1.left" timestamp="1620610602905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620610602905" />
+    <state width="1867" height="332" key="GridCell.Tab.1.right" timestamp="1620610602905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620610602905" />
+    <state x="344" y="0" key="SettingsEditor" timestamp="1622284498755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="344" y="0" key="SettingsEditor/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622284498755" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1621478088521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621478088521" />
+    <state x="677" y="372" width="781" height="342" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1622281792594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="372" width="781" height="342" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040/1920.66.1440.860/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622281792594" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/swust/flink/streaming/StramingWordCountByJava.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
